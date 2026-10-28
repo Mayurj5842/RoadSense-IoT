@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RoadSense IoT
 
 A responsive React + TypeScript dashboard for an IoT pothole-detection and GPS-tracking project. The app starts in **Demo Mode** with fictional Pune-area samples; it does not require hardware or PostgreSQL to explore the dashboard.
@@ -57,3 +58,6 @@ The dashboard's live API provider polls detections and status every 30 seconds. 
 - Dashboard tests cover normalization, coordinate validation, summaries, and filters.
 
 Settings persist for the current page session. Static hosting needs SPA fallback to `index.html`. Review OpenStreetMap tile usage policies before high-volume/public deployment.
+=======
+# RoadSense-IoT
+>>>>>>> origin/main
